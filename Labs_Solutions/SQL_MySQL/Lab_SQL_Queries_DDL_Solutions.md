@@ -1,3 +1,4 @@
+```sql
 -- 1
 select distinct release_year from sakila.film;
 
@@ -94,3 +95,4 @@ delete from sakila.customer where active = 0;
 -- check how many inactive users there are now
 select * from sakila.customer
 where active = 0;
+```
