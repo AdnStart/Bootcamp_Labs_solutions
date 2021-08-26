@@ -1,4 +1,4 @@
-## Lab Sql Group By
+## Lab SQL Group By
 
 ```sql
 -- 1
